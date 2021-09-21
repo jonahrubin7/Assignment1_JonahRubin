@@ -1,9 +1,13 @@
 # Assignment_1
 
 Jonah Rubin
+
 002319887
+
 CPSC-350-3
+
 jorubin@chapman.edu
+
 Assignment 1
 
 References:
