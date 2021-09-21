@@ -16,4 +16,5 @@ https://www.cplusplus.com/
 https://www.tutorialspoint.com/
 
 g++ *.cpp
-./a.out Test.txt Output.txtx
+
+./a.out Test.txt Output.txt
